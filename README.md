@@ -1,16 +1,38 @@
 ### Hi there 👋
 
-<!--
-**Belen-Cufre/Belen-Cufre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Belu. I am 32 years old.
+I am a Full-Stack Developer now, but that was not always the case 😋.
+I graduated from the School of Languages when I was 23 years old and became a Sworn Certified Translator of English.
+I have been all my life looking for learning new things and I have had a wide sort of jobs 🦾.
+I like working and I like learning.
 
-Here are some ideas to get you started:
+🌱 The story of my life can be summed up the following way:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If I had to describe my strengths, I would say that passion-for-learning is definitely the most important one. All throughout my labor career I have been recognized due to my versatility to meet all the challenges I have been given. I am always looking for my own growing, whether it is a personal or professional one. If I can learn something new, then that is added value for me, no matter how tiny that piece of knowledge may seem. I am really perseverant, even more when I am motivated.
+
+👯 I’m looking to start working as soon as a developer and I would love specializing on Backend.
+
+🖥 I have learnt and I want to keep on lerning:
+
+ ➤ JavaScript, HTML5, CSS3, SQL.
+ 
+ ➤ React, Redux, Styled-Component, CSS Modules.
+ 
+ ➤ NodeJS, ExpressJS, Sequelize
+ 
+ ➤ PostgreSQL.
+ 
+ ➤ Git, GitHub.
+ 
+ ➤ Windows
+ 
+ ➤ TRADOS, WordFast, MemoQ
+
+👽 As regards my personal being, I am Aquarius. We could be hours laughing and having fun out of my personality, tastes and life experiences. 
+Anyway, in a nutshell I love:
+ * listening to music 🎵
+ * learning to drive my motorbike 🏍
+ * singing 🎤
+ * going out 🍻🍔
+ * traveling ✈
+ * meeting new places 🏞
